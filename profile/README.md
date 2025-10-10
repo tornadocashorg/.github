@@ -80,10 +80,10 @@ We welcome contributions focused on safety, correctness, and academic advancemen
 
 ## 📚 Resources & Further Reading
 
-- Introductory materials on Zero-Knowledge Proofs and zk-SNARKs (academic surveys).
-- Merkle tree algorithms and authenticated data structures.
-- Peer-reviewed research on privacy metrics (anonymity sets, entropy measures).
-- Responsible disclosure guidelines for crypto projects.
+- [Tornado Cash: a reference manual for developers](https://zk.bearblog.dev/tornado-cash-manual/)
+- [RareSkills ZK Book | Ultimate Zero Knowledge Proof Tutorial](https://rareskills.io/zk-book)
+- [How Tornado Cash Works (Line by Line for Devs)](https://rareskills.io/post/how-does-tornado-cash-work)
+- [Breaking Down Tornado Cash](https://learn.0xparc.org/materials/circom/learning-group-1/breaking-down-tornado/)
 
 
 ---
@@ -103,11 +103,11 @@ This repository uses an open, research-friendly license for documentation and no
 
 ---
 
-## 🔗 Related Links
+## 🔗 Official Links
 
-- Official project website (research/education hub)  
-- Protocol whitepaper (technical specification, conceptual)  
-- Community governance pages (research working groups)  
-- Audit reports and security analyses
+- [Official Tornado Cash UI](https://tornado.cash)
+- [Smart Contract](https://etherscan.io/address/0xd90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b)
+- [Telegram Channel](https://t.me/TornadoCash)
+- [Medium Articles](https://tornado-cash.medium.com)
 
 ---

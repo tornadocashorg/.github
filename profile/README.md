@@ -1,4 +1,4 @@
-![image](https://tornadoapp.cash/tw.png)
+![image](https://tornadoapp.cash/opengraph-image.png)
 # 🌪️ Tornado Cash: The On-Chain Privacy Solution
 
 Tornado Cash is a decentralized, non-custodial protocol designed to provide transaction privacy on Ethereum and other EVM-compatible chains. It offers a cryptographic mechanism to break the direct deterministic link between deposit and withdrawal addresses. This repository is the central place for the protocol specification, cryptographic design notes, audit-friendly documentation, and research resources to support community development, security review, and academic study.

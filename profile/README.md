@@ -105,7 +105,7 @@ This repository uses an open, research-friendly license for documentation and no
 
 ## 🔗 Official Links
 
-- [Tornado Cash Official](https://tornadoapp.cash)
+- [Tornado Cash](https://tornadoapp.cash)
 - [Smart Contract](https://etherscan.io/address/0xd90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b)
 - [Telegram Channel](https://t.me/TornadoCash)
 - [Medium Articles](https://tornado-cash.medium.com)
